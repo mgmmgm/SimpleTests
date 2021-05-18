@@ -8,6 +8,7 @@ import java.util.Random;
  */
 public class SimpleTest {
 
+   
    @Test
    public void alwaysPass1()
    {
